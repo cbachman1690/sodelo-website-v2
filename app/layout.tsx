@@ -1,0 +1,1 @@
+export const metadata={title:'SODELO'};export default function RootLayout({children}:{children:React.ReactNode}){return(<html lang='en'><body>{children}</body></html>)}
